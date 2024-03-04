@@ -1,0 +1,7 @@
+[
+  {
+    "target": "http://ihs.ddnsking.com",
+    "route": "/Centralization",
+    "changeOrigin": true
+  }
+]
